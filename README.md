@@ -17,7 +17,7 @@
 
 ---
 
-###  Assumptions – Airline Ticketing API
+###  Assumptions 
 
 1. **Authentication:**
    - Authentication is simulated via a constant user; no real user DB validation is performed.
@@ -71,7 +71,7 @@
 ---
 
 
-## 📊 Data Model (i.e. an ER)
+##  Data Model
 
 This project uses a relational data model to manage flights and tickets within the airline ticketing system. The core entities and their relationships are described below:
 
