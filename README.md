@@ -1,6 +1,5 @@
-#  Airline Ticketing API ✈️
+#  Airline Ticketing API 
 
----
 
 ##  Design, Assumptions, and Issues Encountered
 
@@ -78,7 +77,7 @@ This project uses a relational data model to manage flights and tickets within t
 
 ---
 
-### ✈️ Flight Table
+###  Flight Table
 
 Stores individual flight information such as schedule, route, duration, and seat capacity.
 
@@ -95,7 +94,7 @@ Stores individual flight information such as schedule, route, duration, and seat
 
 ---
 
-### 🎫 Ticket Table
+###  Ticket Table
 
 Stores ticket information for each passenger.  
 Linked to a specific flight via a foreign key.
@@ -111,14 +110,14 @@ Linked to a specific flight via a foreign key.
 
 ---
 
-### 🔗 Relationships
+###  Relationships
 
 - **One-to-Many**: A single flight can have many tickets (Flight 1:N Ticket).
 - Each ticket belongs to one specific flight.
 
 ---
 
-### 🖼 ER Diagram
+###  ER Diagram
 
 The Entity-Relationship (ER) diagram below illustrates the structure and connections between the Flight and Ticket tables:
 
@@ -128,10 +127,17 @@ The Entity-Relationship (ER) diagram below illustrates the structure and connect
 
 ---
 
-### 🎥 Demo Video
+###  Demo Video
 
-> 🔗 [Watch the demo here](https://drive.google.com/file/d/your-demo-link/view?usp=sharing)
+> 🔗 https://youtu.be/ok-9YK0i7Oc
 
 ---
 
 
+
+##  Swagger Link
+
+
+> 🔗 https://anil-airline-api.azurewebsites.net/swagger/index.html
+
+---
