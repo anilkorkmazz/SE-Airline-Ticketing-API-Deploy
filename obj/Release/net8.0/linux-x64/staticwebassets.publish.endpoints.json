@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Publish",
+  "Endpoints": [
+    {
+      "Route": "certs/DigiCertGlobalRootG2.crt.a1nfce8nt5.pem",
+      "AssetFile": "certs/DigiCertGlobalRootG2.crt.pem",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ohlb0WdAdMjIsuWxWz+aC4fUcwwSm0ewph0thflsHFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 12:16:15 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a1nfce8nt5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ohlb0WdAdMjIsuWxWz+aC4fUcwwSm0ewph0thflsHFs="
+        },
+        {
+          "Name": "label",
+          "Value": "certs/DigiCertGlobalRootG2.crt.pem"
+        }
+      ]
+    },
+    {
+      "Route": "certs/DigiCertGlobalRootG2.crt.pem",
+      "AssetFile": "certs/DigiCertGlobalRootG2.crt.pem",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ohlb0WdAdMjIsuWxWz+aC4fUcwwSm0ewph0thflsHFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 12:16:15 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ohlb0WdAdMjIsuWxWz+aC4fUcwwSm0ewph0thflsHFs="
+        }
+      ]
+    }
+  ]
+}

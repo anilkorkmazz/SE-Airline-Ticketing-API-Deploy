@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "xFa5mHZkB8SNuNkNJM+nx5hj0UFH55sVpxmQW8TcGGU=",
+  "Source": "AirlineTicketingAPI",
+  "BasePath": "_content/AirlineTicketingAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AirlineTicketingAPI/wwwroot",
+      "Source": "AirlineTicketingAPI",
+      "ContentRoot": "/Users/anilkorkmaz/Desktop/AirlineTicketingAPI_Deploy/wwwroot/",
+      "BasePath": "_content/AirlineTicketingAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/anilkorkmaz/Desktop/AirlineTicketingAPI_Deploy/wwwroot/certs/DigiCertGlobalRootG2.crt.pem",
+      "SourceId": "AirlineTicketingAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/anilkorkmaz/Desktop/AirlineTicketingAPI_Deploy/wwwroot/",
+      "BasePath": "_content/AirlineTicketingAPI",
+      "RelativePath": "certs/DigiCertGlobalRootG2.crt#[.{fingerprint}]?.pem",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a1nfce8nt5",
+      "Integrity": "ohlb0WdAdMjIsuWxWz+aC4fUcwwSm0ewph0thflsHFs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/certs/DigiCertGlobalRootG2.crt.pem"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "certs/DigiCertGlobalRootG2.crt.a1nfce8nt5.pem",
+      "AssetFile": "/Users/anilkorkmaz/Desktop/AirlineTicketingAPI_Deploy/wwwroot/certs/DigiCertGlobalRootG2.crt.pem",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ohlb0WdAdMjIsuWxWz+aC4fUcwwSm0ewph0thflsHFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 12:16:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a1nfce8nt5"
+        },
+        {
+          "Name": "label",
+          "Value": "certs/DigiCertGlobalRootG2.crt.pem"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ohlb0WdAdMjIsuWxWz+aC4fUcwwSm0ewph0thflsHFs="
+        }
+      ]
+    },
+    {
+      "Route": "certs/DigiCertGlobalRootG2.crt.pem",
+      "AssetFile": "/Users/anilkorkmaz/Desktop/AirlineTicketingAPI_Deploy/wwwroot/certs/DigiCertGlobalRootG2.crt.pem",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "55"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ohlb0WdAdMjIsuWxWz+aC4fUcwwSm0ewph0thflsHFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 12:16:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ohlb0WdAdMjIsuWxWz+aC4fUcwwSm0ewph0thflsHFs="
+        }
+      ]
+    }
+  ]
+}

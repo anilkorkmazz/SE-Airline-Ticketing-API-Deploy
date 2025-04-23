@@ -1,0 +1,1 @@
+{"ContentRoots":["/Users/anilkorkmaz/Desktop/AirlineTicketingAPI_Deploy/wwwroot/"],"Root":{"Children":{"certs":{"Children":{"DigiCertGlobalRootG2.crt.pem":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"certs/DigiCertGlobalRootG2.crt.pem"},"Patterns":null}},"Asset":null,"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}

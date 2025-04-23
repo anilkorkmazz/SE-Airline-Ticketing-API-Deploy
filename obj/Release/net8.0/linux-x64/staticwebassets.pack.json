@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/anilkorkmaz/Desktop/AirlineTicketingAPI_Deploy/wwwroot/certs/DigiCertGlobalRootG2.crt.pem",
+      "PackagePath": "staticwebassets/certs/DigiCertGlobalRootG2.crt.pem"
+    },
+    {
+      "Id": "obj/Release/net8.0/linux-x64/staticwebassets/msbuild.AirlineTicketingAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/linux-x64/staticwebassets/msbuild.AirlineTicketingAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/linux-x64/staticwebassets/msbuild.build.AirlineTicketingAPI.props",
+      "PackagePath": "build\\AirlineTicketingAPI.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/linux-x64/staticwebassets/msbuild.buildMultiTargeting.AirlineTicketingAPI.props",
+      "PackagePath": "buildMultiTargeting\\AirlineTicketingAPI.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/linux-x64/staticwebassets/msbuild.buildTransitive.AirlineTicketingAPI.props",
+      "PackagePath": "buildTransitive\\AirlineTicketingAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

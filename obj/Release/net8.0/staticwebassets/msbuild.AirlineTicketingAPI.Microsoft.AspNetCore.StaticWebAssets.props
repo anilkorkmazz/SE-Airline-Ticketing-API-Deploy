@@ -1,0 +1,22 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\certs\DigiCertGlobalRootG2.crt.pem'))">
+      <SourceType>Package</SourceType>
+      <SourceId>AirlineTicketingAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/AirlineTicketingAPI</BasePath>
+      <RelativePath>certs/DigiCertGlobalRootG2.crt.pem</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>a1nfce8nt5</Fingerprint>
+      <Integrity>ohlb0WdAdMjIsuWxWz+aC4fUcwwSm0ewph0thflsHFs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\certs\DigiCertGlobalRootG2.crt.pem'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

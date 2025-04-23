@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/AirlineTicketingAPI/certs/DigiCertGlobalRootG2.crt.a1nfce8nt5.pem">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\certs\DigiCertGlobalRootG2.crt.pem'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a1nfce8nt5"},{"Name":"integrity","Value":"sha256-ohlb0WdAdMjIsuWxWz\u002BaC4fUcwwSm0ewph0thflsHFs="},{"Name":"label","Value":"_content/AirlineTicketingAPI/certs/DigiCertGlobalRootG2.crt.pem"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"55"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022ohlb0WdAdMjIsuWxWz\u002BaC4fUcwwSm0ewph0thflsHFs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 12:16:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/AirlineTicketingAPI/certs/DigiCertGlobalRootG2.crt.pem">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\certs\DigiCertGlobalRootG2.crt.pem'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ohlb0WdAdMjIsuWxWz\u002BaC4fUcwwSm0ewph0thflsHFs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"55"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022ohlb0WdAdMjIsuWxWz\u002BaC4fUcwwSm0ewph0thflsHFs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 12:16:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
