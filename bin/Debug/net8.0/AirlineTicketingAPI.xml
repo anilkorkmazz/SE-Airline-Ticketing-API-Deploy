@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AirlineTicketingAPI</name>
+    </assembly>
+    <members>
+        <member name="T:AirlineTicketingAPI.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:AirlineTicketingAPI.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AirlineTicketingAPI.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AirlineTicketingAPI.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AirlineTicketingAPI.Migrations.AddBillsTable">
+            <inheritdoc />
+        </member>
+        <member name="M:AirlineTicketingAPI.Migrations.AddBillsTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AirlineTicketingAPI.Migrations.AddBillsTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AirlineTicketingAPI.Migrations.AddBillsTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AirlineTicketingAPI.Migrations.RemoveBillModel">
+            <inheritdoc />
+        </member>
+        <member name="M:AirlineTicketingAPI.Migrations.RemoveBillModel.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AirlineTicketingAPI.Migrations.RemoveBillModel.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AirlineTicketingAPI.Migrations.RemoveBillModel.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

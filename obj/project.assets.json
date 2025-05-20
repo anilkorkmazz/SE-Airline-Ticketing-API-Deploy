@@ -4408,11 +4408,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anilkorkmaz/Desktop/AirlineTicketingAPI_Deploy/AirlineTicketingAPI.csproj",
+      "projectUniqueName": "/Users/anilkorkmaz/Desktop/SE-Airline-Ticketing-API-Deploy/AirlineTicketingAPI.csproj",
       "projectName": "AirlineTicketingAPI",
-      "projectPath": "/Users/anilkorkmaz/Desktop/AirlineTicketingAPI_Deploy/AirlineTicketingAPI.csproj",
+      "projectPath": "/Users/anilkorkmaz/Desktop/SE-Airline-Ticketing-API-Deploy/AirlineTicketingAPI.csproj",
       "packagesPath": "/Users/anilkorkmaz/.nuget/packages/",
-      "outputPath": "/Users/anilkorkmaz/Desktop/AirlineTicketingAPI_Deploy/obj/",
+      "outputPath": "/Users/anilkorkmaz/Desktop/SE-Airline-Ticketing-API-Deploy/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/anilkorkmaz/.nuget/NuGet/NuGet.Config"

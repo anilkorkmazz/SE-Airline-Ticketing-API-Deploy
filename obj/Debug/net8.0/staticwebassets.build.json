@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UM8s7a9zbS5CKwV3CgIN7RqZHq4yYgQ7UiWIJdDqjH4=",
+  "Source": "AirlineTicketingAPI",
+  "BasePath": "_content/AirlineTicketingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
